@@ -1,1 +1,1 @@
-Repo for learning shell basics
+This repo will be used for the Shell, Permissions project
