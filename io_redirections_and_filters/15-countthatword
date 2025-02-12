@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -wc "root" /etc/passwd
+grep -o -i root /etc/passwd | wc -l
