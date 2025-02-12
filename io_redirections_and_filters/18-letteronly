@@ -1,0 +1,2 @@
+#!/bin/bash
+grep '^a.*e$' /etc/ssh/sshd_config
