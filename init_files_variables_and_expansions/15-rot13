@@ -1,2 +1,2 @@
 #!/bin/bash
-ehco tr '[a-z][A-Z]' '[n-za-m][N-ZA-M]'
+echo tr '[a-z][A-Z]' '[n-za-m][N-ZA-M]'
